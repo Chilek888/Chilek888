@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Artyom 
 - 👀 I’m interested in foreign languages
-- 😄 Pronouns: Celik88
+- 😄 Pronouns: Celik888
 
 <!---
 Chilek888/Chilek888 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
